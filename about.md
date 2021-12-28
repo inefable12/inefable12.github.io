@@ -3,7 +3,7 @@ title: About
 layout: page
 ---
 
-Hola! espero que este blog sea de utilidad para la comunidad en biología estructural, química computacional, machine learning y relacionados.
+Hola! espero que este blog sea de utilidad para la comunidad en biología estructural, química computacional, machine learning y afines.
 
 Raw data para ejemplos y tutoriales sobre inteligencia artificial aplicada a sistemas moleculares, reactividad química, etc., en <a rel="me" target="_blank" href="https://github.com/inefable12">github.com/inefable12</a>
 
