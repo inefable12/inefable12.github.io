@@ -4,8 +4,8 @@ layout: page
 ---
 
 Jesus Alvarado Huayhuaz
-PhD(c) | National University of Engineering, Perú
-MSc. | Sao Paulo University, Brazil
+- PhD(c) | National University of Engineering, Perú
+- MSc. | Sao Paulo University, Brazil
 
 Actividades:
 
