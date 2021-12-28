@@ -3,7 +3,7 @@ title: Contact
 layout: page
 ---
 
-Jesus Alvarado Huayhuaz
+Jesus A. Alvarado Huayhuaz
 - PhD(c) | National University of Engineering, Perú
 - MSc. | Sao Paulo University, Brazil
 
