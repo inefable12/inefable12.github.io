@@ -1,12 +1,21 @@
 ---
 layout: post
 author: Jesus Alvarado
-title: Gráficas de Docking score
+title: Gráficas de Docking score con Matplotlib
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
+## Qué es matplotlib?
 
-![800x600](https://i.picsum.photos/id/688/800/600.jpg)
+Matplotlib es una librería de python para la creación de gráficas estáticas, animadas e interactivas 👍. Reportes científicos, artículos para journals, gráficas para tesis o libros, análisis exploratorio de datos, data wrangling para machine learning, entre muchas otras aplicaciones, emplean masivamente este tipo de herramientas. Podemos encontrar tutoriales, ejemplos de aplicaciones, documentación en https://matplotlib.org/ y bastante material de apoyo en la web.
+
+Aquí veremos como generar una gráfica de barras para dos casos:
+
+(1) Una gráfica informativa sobre un grupo de complejos (compuestos de coordinación o compuesto metal-ligando orgánico)
+(2) Una gráfica de barras conteniendo el docking score de estos complejos en una enzima, en su forma nativa y 5 mutantes.
+
+### 1. Reporte de complejos   
+
+![800x600](https://blog.finxter.com/wp-content/uploads/2021/01/image-170-1024x724.png)
 
 ## Some great heading (h2)
 
