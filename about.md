@@ -3,8 +3,10 @@ title: About
 layout: page
 ---
 
-Hey! This is the "Leaf" Jekyll theme created by <a rel="me" target="_blank" href="https://twitter.com/_SupunKavinda">Supun Kavinda</a>.
+Hola! espero que este blog sea de utilidad para la comunidad en biología estructural, química computacional, machine learning y relacionados.
 
-You can find the source code of this theme at <a href="https://github.com/SupunKavinda/jekyll-theme-leaf">Github</a>
+Raw data para ejemplos y tutoriales sobre inteligencia artificial aplicada a sistemas moleculares, reactividad química, etc., en <a rel="me" target="_blank" href="https://github.com/inefable12">github.com/inefable12</a>
 
-(Change this by editing `about.md` file)
+Puedes encontrar también contenido Steam en <a rel="me" target="_blank" href="https://facebook.com/tallerespuquna">Talleres Puquna</a>.
+
+La plantilla web empleada fue creada por Supun Kavinda y se encuentra disponible libremente en: <a href="https://github.com/SupunKavinda/jekyll-theme-leaf">Leaf Blog</a>
