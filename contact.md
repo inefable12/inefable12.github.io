@@ -3,8 +3,17 @@ title: Contact
 layout: page
 ---
 
-You can always contact the creator of this theme via [Twitter](https://twitter.com/_SupunKavinda).
+Jesus Alvarado Huayhuaz
+PhD(c) | National University of Engineering, Perú
+MSc. | Sao Paulo University, Brazil
 
-If you need help with Jekyll, ask questions on [Jekyll Talk](https://talk.jekyllrb.com/).
+Actividades:
 
-(Change this by editing `contact.md` file)
+1. Investigación científica
+2. Docencia universitaria
+3. Asesoría y colaboración académica
+
+Contacto:
+
+- jalvaradoh@uni.pe
+- jesus@iq.usp.br
