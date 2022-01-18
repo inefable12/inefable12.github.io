@@ -6,13 +6,13 @@ title: Gráfica MIC con Matplotlib
 
 ![800x600](https://www.delftstack.com/img/Matplotlib/Matplotlib%20plot%20two%20histograms%20at%20the%20same%20time%20without%20overlapping%20bars.png?ezimgfmt=rs:640x480/rscb5/ng:webp/ngcb5)
 
-## Qué es matplotlib?
+## Qué es un MIC?
 
-Matplotlib es una librería de python para la creación de gráficas estáticas, animadas e interactivas 👍. Reportes científicos, artículos para journals, gráficas para tesis o libros, análisis exploratorio de datos, data wrangling para machine learning, entre muchas otras aplicaciones, emplean masivamente este tipo de herramientas. Podemos encontrar tutoriales, ejemplos de aplicaciones, documentación en https://matplotlib.org/ y bastante material de apoyo en la web.
+Es la concentración inhibitoria necesaria para inhibir el crecimiento de la mitad de la población bacteriana. 
+Hace poco recibimos unos resultados del MIC de 2 compuestos en 2 cepas diferentes de Mycobacterium tuberculosis: la pirazinamida y nuestro compuesto que podemos llamar L1 (o ligando número 1).
+Una manera bastante práctica de interpretar estos resultados es utilizando un diagrama de barras, entonces aquí veremos cómo generar una gráfica de barras para este caso:
 
-Aquí veremos cómo generar una gráfica de barras para dos casos:
-
-> Una gráfica informativa sobre un grupo de complejos (compuestos de coordinación o compuesto metal-ligando orgánico)
+> Datos: 
 
 
 > Una gráfica de barras conteniendo el docking score de estos complejos en una enzima, en su forma nativa y 5 mutantes.
